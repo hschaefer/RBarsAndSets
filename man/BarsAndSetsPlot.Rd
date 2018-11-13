@@ -4,7 +4,7 @@
 \alias{BarsAndSetsPlot}
 \title{Plot omics data along with functional classification}
 \usage{
-BarsAndSetsPlot(bar_values, categories)
+BarsAndSetsPlot(bar_values, categories, title = "")
 }
 \arguments{
 \item{bar_values}{log transformed, ordered vector of ratios.}
